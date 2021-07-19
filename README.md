@@ -15,4 +15,5 @@ It requires python 3.x and the following Python packages:
 1. Edit some config settings in `setting.json` related to exchange authentication.
 2. Run job.py
 
-## Reference: * [ftx_grid_trading_bot] https://github.com/HenrisonTao/ftx_grid_trading_bot
+## Reference: 
+* [ftx_grid_trading_bot](https://github.com/HenrisonTao/ftx_grid_trading_bot)
