@@ -23,7 +23,6 @@ class Oreder_Info:
         self.id=0
 
 class Grid_trader:
-    #order_list=[]##find this --to be used in place_order_init
 
     def __init__(self,exchange,logfile,symbol,coin,fiat,tp=0.0,sl=0.0,time_period_BB=0.0,time_period_TEMA=0.0, BB=0.0):
         '''get basic data from exhchange and json file to start'''
@@ -204,22 +203,3 @@ class Grid_trader:
         except:
             pass
     
-
-
-################################################################################################
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
