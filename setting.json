@@ -1,0 +1,15 @@
+{
+  "LOGFILE":"ftx.log",
+  "apiKey":"",
+  "secret":"",
+  "sub_account":"",
+  "symbol":"BTC/USD", 
+  "coin":"BTC",
+  "stablecoin":"USD",
+  "tp":0.6,
+  "sl":0.9,
+  "time_period_BB":28,
+  "time_period_TEMA":12,
+  "BB":2
+
+}
