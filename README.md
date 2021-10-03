@@ -16,6 +16,7 @@ It requires python 3.x and the following Python packages:
 1. Edit some config settings in `setting.json` and rename it to `setting.json`.
 2. Run job.py
 
-# Reference: https://github.com/HenrisonTao/ftx_grid_trading_bot
+## Reference: 
+* [HenrisonTao](https://github.com/HenrisonTao/ftx_grid_trading_bot)
 
 
